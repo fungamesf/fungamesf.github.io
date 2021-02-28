@@ -1,2 +1,5 @@
-Coming Soon!
-We Are Still Working On Our Main Site So It Is Coming Soon!
+Welcome To FunGamesF .github.io
+
+Click One Of The Pages Below From This Website
+
+ <a href="https://fungamesf.github.io/cookieclicker">Cookie Clicker</a> 
